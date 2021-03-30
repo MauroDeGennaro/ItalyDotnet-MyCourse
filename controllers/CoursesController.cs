@@ -4,10 +4,10 @@ namespace MyCourse.controllers
     public class CoursesController: Controller
     {
         public IActionResult Index(){
-            return Content("sono index");
+            return View();
         }
-        public IActionResult detail(string id){
-            return Content($"sono detail, ho ricevuto l'id,{id}");
+        public IActionResult Detail(string id){
+            return  View();
         }
     }
 }
