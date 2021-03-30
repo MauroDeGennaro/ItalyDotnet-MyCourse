@@ -1,0 +1,14 @@
+C:\Users\Mauro\OneDrive\Desktop\Mauro\Siti Internet\Net-Core\ItalyDotnet-MyCourse\bin\Debug\netcoreapp2.1\MyCourse.deps.json
+C:\Users\Mauro\OneDrive\Desktop\Mauro\Siti Internet\Net-Core\ItalyDotnet-MyCourse\bin\Debug\netcoreapp2.1\MyCourse.runtimeconfig.json
+C:\Users\Mauro\OneDrive\Desktop\Mauro\Siti Internet\Net-Core\ItalyDotnet-MyCourse\bin\Debug\netcoreapp2.1\MyCourse.runtimeconfig.dev.json
+C:\Users\Mauro\OneDrive\Desktop\Mauro\Siti Internet\Net-Core\ItalyDotnet-MyCourse\bin\Debug\netcoreapp2.1\MyCourse.dll
+C:\Users\Mauro\OneDrive\Desktop\Mauro\Siti Internet\Net-Core\ItalyDotnet-MyCourse\bin\Debug\netcoreapp2.1\MyCourse.pdb
+C:\Users\Mauro\OneDrive\Desktop\Mauro\Siti Internet\Net-Core\ItalyDotnet-MyCourse\obj\Debug\netcoreapp2.1\MyCourse.csprojAssemblyReference.cache
+C:\Users\Mauro\OneDrive\Desktop\Mauro\Siti Internet\Net-Core\ItalyDotnet-MyCourse\obj\Debug\netcoreapp2.1\MyCourse.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\OneDrive\Desktop\Mauro\Siti Internet\Net-Core\ItalyDotnet-MyCourse\obj\Debug\netcoreapp2.1\MyCourse.RazorAssemblyInfo.cache
+C:\Users\Mauro\OneDrive\Desktop\Mauro\Siti Internet\Net-Core\ItalyDotnet-MyCourse\obj\Debug\netcoreapp2.1\MyCourse.RazorAssemblyInfo.cs
+C:\Users\Mauro\OneDrive\Desktop\Mauro\Siti Internet\Net-Core\ItalyDotnet-MyCourse\obj\Debug\netcoreapp2.1\MyCourse.AssemblyInfoInputs.cache
+C:\Users\Mauro\OneDrive\Desktop\Mauro\Siti Internet\Net-Core\ItalyDotnet-MyCourse\obj\Debug\netcoreapp2.1\MyCourse.AssemblyInfo.cs
+C:\Users\Mauro\OneDrive\Desktop\Mauro\Siti Internet\Net-Core\ItalyDotnet-MyCourse\obj\Debug\netcoreapp2.1\MyCourse.RazorTargetAssemblyInfo.cache
+C:\Users\Mauro\OneDrive\Desktop\Mauro\Siti Internet\Net-Core\ItalyDotnet-MyCourse\obj\Debug\netcoreapp2.1\MyCourse.dll
+C:\Users\Mauro\OneDrive\Desktop\Mauro\Siti Internet\Net-Core\ItalyDotnet-MyCourse\obj\Debug\netcoreapp2.1\MyCourse.pdb
